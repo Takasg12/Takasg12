@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Word I'm Raya Rabbani 👋
 
 <!--
 **Takasg12/Takasg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
